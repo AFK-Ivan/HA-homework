@@ -40,6 +40,8 @@
 
 ![HW1 task 1](http://screenshot.alarislabs.com/ib2024/image_20230905181514_3f7bcb25.png) 
 
+`Файл .pkt доступен в этом репозитории под названием "hsrp_advanced_done.pkt"`
+
 ---
 
 ### Задание 2
