@@ -38,7 +38,7 @@
 
 1. `Прикрепляю pkt файл + скриншот с выполненными командами`
 
-[HW1 task 1](http://screenshot.alarislabs.com/ib2024/image_20230905181514_3f7bcb25.png) 
+![HW1 task 1](http://screenshot.alarislabs.com/ib2024/image_20230905181514_3f7bcb25.png) 
 
 ---
 
