@@ -39,4 +39,4 @@
 2. Если Nginx на активном сервере выключить, а на standby включить, то происходит переключение:
  ![Скриншот](http://screenshot.alarislabs.com/ib2024/image_20230909190614_7650a3c8.png)
 
- 
+ Добавил в этот репозиторий файлы **keepalived.conf** и **check_webserver.sh**
